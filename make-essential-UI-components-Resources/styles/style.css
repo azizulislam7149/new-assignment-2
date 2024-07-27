@@ -1,0 +1,25 @@
+.banner-text-container{
+    width: 50%;
+    border: 2px solid green;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: start;
+}
+.banner-text-container button{
+    margin-right: 520px;
+    width: 170px;
+    height: 60px;
+    background-color: rgb(229,84,115);
+    border: none;
+}
+.banner-text-container img{
+    width: 50%;
+    height: 200px;
+    justify-content: right;
+
+}
+.parentdiv{
+    display: flex;
+}
